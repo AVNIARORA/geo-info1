@@ -1,3 +1,3 @@
 # geo-info1
 
-This branch will contain images of current forest cover over a period of 2 months
+This project will be a storehouse of images of changing forest patterns of India and how much change can be mitigated through better living practices
